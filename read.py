@@ -12,5 +12,5 @@ for filename in os.listdir("decrypted_pdfs"):
     pageObj = pdfReader.getPage(0) 
     print(pageObj.extractText()) 
 
-
+# TO DO: Save extracted text to a text file 
 
