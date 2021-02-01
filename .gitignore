@@ -1,5 +1,4 @@
 env
-config
-pdfs
-encrypted_pdfs
-decrypted_pdfs
+env/
+.vscode
+.DS_Store
