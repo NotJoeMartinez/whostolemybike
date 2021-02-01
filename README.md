@@ -8,4 +8,20 @@
 - [How to crack a pdf password](https://ourcodeworld.com/articles/read/939/how-to-crack-a-pdf-password-with-brute-force-using-john-the-ripper-in-kali-linux)
 - [python-graph-gallery](https://python-graph-gallery.com/)
 - [Keyhole Markup Language](https://developers.google.com/kml/)
+## Notes
+| Residence Hall | Mentions | Files |
+| -------------- | -------- | ----- |
+| Bledsoe        | 87       | 79    |
+| Sneed          | 68       | 60    |
+| Horn           | 43       | 42    |
+| Knapp          | 54       | 51    |
+| Wall           | 65       | 62    |
+| Gates          | 60       | 57    |
+| Hulen          | 48       | 45    |
+| Clement        | 64       | 62    |
+| Coleman        | 116      | 107   |
+| Chitwood       | 94       | 88    |
+| Stangel        | 51       | 49    |
+| Murdough       | 84       | 77    |
+
 
