@@ -3,9 +3,7 @@ import requests
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
-urls = [
-    'https://www.depts.ttu.edu/ttpd/daily/2017/TTU_Main/index.php',
-    'https://www.depts.ttu.edu/ttpd/daily/2018/TTU_Main/index.php',
+urls = [ 
     'https://www.depts.ttu.edu/ttpd/daily/2019/TTU_Main/index.php',
     'https://www.depts.ttu.edu/ttpd/daily/2020/TTU_Main/index.php',
     ]
